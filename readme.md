@@ -5,8 +5,6 @@ This hashmap example also leverages a custom-built LinkedList class, which is us
 
 ## Usage
 
-## Usage
-
 ### Import and create list
 1. `import { HashMap } from "./HashMap.js";` import the HashMap class
 2. `const hashMap = new HashMap()` instantiates a new hashmap.
